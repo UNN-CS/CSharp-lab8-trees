@@ -1,0 +1,10 @@
+C:\Users\aleks\source\repos\LabTree\LabTree\bin\Debug\LabTree.exe.config
+C:\Users\aleks\source\repos\LabTree\LabTree\bin\Debug\LabTree.exe
+C:\Users\aleks\source\repos\LabTree\LabTree\bin\Debug\LabTree.pdb
+C:\Users\aleks\source\repos\LabTree\LabTree\obj\Debug\LabTree.csprojResolveAssemblyReference.cache
+C:\Users\aleks\source\repos\LabTree\LabTree\obj\Debug\LabTree.Form1.resources
+C:\Users\aleks\source\repos\LabTree\LabTree\obj\Debug\LabTree.Properties.Resources.resources
+C:\Users\aleks\source\repos\LabTree\LabTree\obj\Debug\LabTree.csproj.GenerateResource.cache
+C:\Users\aleks\source\repos\LabTree\LabTree\obj\Debug\LabTree.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\LabTree\LabTree\obj\Debug\LabTree.exe
+C:\Users\aleks\source\repos\LabTree\LabTree\obj\Debug\LabTree.pdb
