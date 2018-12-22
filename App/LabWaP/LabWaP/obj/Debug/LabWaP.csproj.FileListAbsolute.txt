@@ -1,0 +1,7 @@
+D:\Programs\CSharp\LabWaP\LabWaP\bin\Debug\LabWaP.exe.config
+D:\Programs\CSharp\LabWaP\LabWaP\bin\Debug\LabWaP.exe
+D:\Programs\CSharp\LabWaP\LabWaP\bin\Debug\LabWaP.pdb
+D:\Programs\CSharp\LabWaP\LabWaP\obj\Debug\LabWaP.csprojResolveAssemblyReference.cache
+D:\Programs\CSharp\LabWaP\LabWaP\obj\Debug\LabWaP.csproj.CoreCompileInputs.cache
+D:\Programs\CSharp\LabWaP\LabWaP\obj\Debug\LabWaP.exe
+D:\Programs\CSharp\LabWaP\LabWaP\obj\Debug\LabWaP.pdb
